@@ -41,5 +41,7 @@ Tools currently assigned:
 ---
 
 [LangChain](https://python.langchain.com/docs/tutorials/) - development frame work for building apps around LLMs.
+
 [FAISS](https://ai.meta.com/tools/faiss/) - the vector database for storing the embeddings.
+
 [Streamlit](https://streamlit.io/) - used for the front end. Lightweight framework for deploying python web apps.
