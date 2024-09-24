@@ -1,4 +1,4 @@
-# Chatbot for Vacation Requests: ASTUDIO ASSESSMENT
+# HR Chatbot
 
 ### Description
 
