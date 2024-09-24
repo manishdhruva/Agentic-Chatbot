@@ -1,0 +1,6 @@
+employee_id,name,position,organizational_unit,rank,hire_date,regularization_date,available_vacation_days,available_sick_leaves,basic_pay_in_php,under_notice_period,probation_completed,supervisor,unpaid_leave_days
+1005674,Manish Dhruva,Machine Learning Engineer,R&D Department,Junior,2/16/2013,7/16/2013,20,15,20000,False,False,Wissam N.,5.0
+1005675,Wissam N.,Full Stack Web Developer,Engineering Department,Supervisor,01/01/23,,10,2,15000,False,True,,5.0
+1005676,Jimmy Jradeh,Full Stack Web Developer,Engineering Department,Rank and File,11/01/17,05/01/18,45,8,15000,True,True,Wissam N.,
+1005677,Majd Raslan,UI/UX Designer,Engineering Department,Junior,10/15/2021,4/15/2022,16,4,15000,False,False,,
+1005678,Ayman Audi,Full Stack Web Developer,Engineering Department,Rank and File,3/16/2016,9/16/2016,50,11,30000,False,True,Wissam N.,
